@@ -1,0 +1,3 @@
+# ignore swp/temp files, linux and vim always create these.
+*.swp
+*.tmp
