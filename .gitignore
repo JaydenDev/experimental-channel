@@ -3,3 +3,4 @@
 *.tmp
 # ignore compiled binaries, this repo will only contain source code
 *.out
+*.bin
