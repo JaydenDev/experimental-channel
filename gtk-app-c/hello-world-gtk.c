@@ -25,6 +25,9 @@ activate (GtkApplication *app,
   gtk_window_present (GTK_WINDOW (window));
 }
 
+button = gtk_button_new_with_label ("Button");
+gtk_widget_show (button);
+
 int
 main (int    argc,
       char **argv)
