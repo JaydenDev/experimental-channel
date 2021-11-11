@@ -1,3 +1,5 @@
 # ignore swp/temp files, linux and vim always create these.
 *.swp
 *.tmp
+# ignore compiled binaries, this repo will only contain source code
+*.out
